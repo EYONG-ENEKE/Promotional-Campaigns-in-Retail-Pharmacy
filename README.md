@@ -70,7 +70,6 @@ Action: Deploy the Promotion Risk Score into a live SQL/Python-backed bi-weekly 
 
 Objective: Drive accountability and institutionalize data-backed promotional scheduling.
 
-2.
 
 Overall, this project demonstrates how data can be used not just to track performance, but to drive more profitable and sustainable decision-making in retail environments.
 
