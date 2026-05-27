@@ -1,13 +1,10 @@
 # Promotion Strategy Optimization in Retail Pharmacy
 Executive Summary
 
-This project evaluates the effectiveness of promotional strategies in a retail pharmacy setting.
- 
- I focused on identifying categories that are heavily discounted without clear strategic justification, as well as seasonal patterns in discounting behavior. 
- 
-Due to the absence of sales volume data, I reframed the analysis to assess promotional intensity and potential margin risk, using discount depth as a proxy. The goal was to highlight areas where the business may be over-discounting and recommend tighter promotion control to protect profitability.
+This project evaluates the efficiency of promotional strategies within a retail pharmacy environment. In the absence of transaction volume data, the analysis was strategically reframed to assess promotional intensity and margin risk, using discount depth and frequency as proxies.
 
-The outcome is a decision-support framework for improving promotional governance and reducing unnecessary margin exposure.
+The core focus was identifying product categories subjected to aggressive discounting without clear strategic justification, alongside uncovering seasonal discounting patterns. The final deliverable is a decision-support framework designed to tighten promotional governance, reduce unnecessary margin leakage, and protect baseline profitability.
+
 
 Business Objective:
 
@@ -18,6 +15,14 @@ Analytical Framework:
 
 The analysis is built on three core metrics: Discount Intensity, Promotion Frequency, and Promotion Risk Score. These provide a structured view of promotional pressure and help identify high-risk
 
+Analytical Framework
+To evaluate promotional pressure without volume data, a risk-modeling framework was built using three core metrics:
+
+Discount Intensity: The average and maximum depth of discounts applied across categories.
+
+Promotion Frequency: The cadence and duration of promotional active states per product line.
+
+Promotion Risk Score: A composite index combining frequency and intensity to flag products at high risk of structural margin erosion.
 
 Key Insights
 Certain categories show consistently high promotional exposure, suggesting potential over-reliance on discounting. Discount activity is uneven across months, indicating seasonal or campaign-driven
@@ -48,17 +53,11 @@ My recommendation was to shift from broad, discount-heavy campaigns to more targ
 
 Overall, this project demonstrates how data can be used not just to track performance, but to drive more profitable and sustainable decision-making in retail environments.
 
+Future Enhancements (Upon Full Data Integration)
+With future access to sales volumes and customer transaction logs, this framework can scale to include:
 
-Suggested Future Enhancements (With Full Data Access):
+Promotion Uplift & Incremental Margin: Measuring true volume spikes against pre-promotion baselines to calculate net ROI.
 
-If sales and customer data become available, the analysis can be extended to:
+Price Elasticity Modeling: Calculating category-level price sensitivity to find the exact inflection point where discounts maximize return.
 
-Promotion uplift measurement (pre/post analysis)
-
-Incremental margin calculation
-
-Customer response segmentation
-
-Elasticity modeling (price sensitivity)
-
-True ROI of promotional campaigns
+Behavioral Customer Segmentation: Grouping shoppers by discount affinity to transition from mass promotions to personalized, high-yield offers.
