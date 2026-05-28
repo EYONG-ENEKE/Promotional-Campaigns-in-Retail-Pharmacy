@@ -1,5 +1,5 @@
-# Promotion Strategy Optimization in Retail Pharmacy
-Executive Summary
+                    Promotion Strategy Optimization in Retail Pharmacy
+Executive Summary:
 
 This project evaluates the efficiency of promotional strategies within a retail pharmacy environment. In the absence of transaction volume data, the analysis was strategically reframed to assess promotional intensity and margin risk, using discount depth and frequency as proxies.
 
@@ -45,15 +45,15 @@ Strategic Recommendations:
 With access to full data, the model can be extended to measure uplift, ROI, and customer behavior for precise promotion optimization.
 
 Tools & Technologies
-Python (Pandas, NumPy), SQL, Data Analysis, KPI Development
+Python (Pandas, NumPy,matplotlib,seaborn,plotly,os), SQL, Data Analysis, KPI Development
 
 Conclusion:
 
-This project successfully establishes a risk-modeling framework that shifts the evaluation of retail pharmacy promotions from volume-driven tracking to margin-protection analytics. In the absence of transaction volumes, utilizing Discount Intensity and Promotion Frequency proved to be a highly effective proxy methodology for identifying structural vulnerabilities in the pharmacy’s pricing strategy.
+This project successfully establishes a risk-modeling framework that shifts the evaluation of retail pharmacy promotions from volume-driven tracking to margin-protection analytics. In the absence of transaction volume data, utilizing Discount Intensity and Promotion Frequency proved to be a highly effective proxy methodology for identifying structural vulnerabilities in the pharmacy’s pricing strategy.
 
 The analysis revealed two critical operational vulnerabilities:
 
-Structural Margin Erosion: Certain product categories are locked in an active state of aggressive discounting. This constant promotional pressure risks anchoring consumers to artificially low prices, desensitizing them to baseline MSRPs, and permanently damaging product-line profitability.
+Structural Margin Erosion: Certain product categories are locked in an active state of aggressive discounting. This constant promotional pressure risks anchoring consumers to artificially low prices, desensitizing them to baseline MSRPs(Manufacturer's Suggested Retail Price), and permanently damaging product-line profitability.
 
 Unregulated Seasonal Exposure: Discount activity spikes unpredictably across specific months. Without clear volume-uplift justification, these seasonal concentrations function as uncontrolled margin leakage rather than strategic, traffic-driving campaigns.
 
@@ -74,10 +74,10 @@ Objective: Drive accountability and institutionalize data-backed promotional sch
 Overall, this project demonstrates how data can be used not just to track performance, but to drive more profitable and sustainable decision-making in retail environments.
 
 Future Enhancements:
-With future access to sales volumes and customer transaction logs, this framework can scale to include:
+With future access to sales volumes data and customer transaction logs, this framework can scale to include:
 
 Promotion Uplift & Incremental Margin: Measuring true volume spikes against pre-promotion baselines to calculate net ROI.
 
-Price Elasticity Modeling: Calculating category-level price sensitivity to find the exact inflecti on point where discounts maximize return.
+Price Elasticity Modeling: Calculating category-level price sensitivity to find the exact inflection point where discounts maximize return.
 
 Behavioral Customer Segmentation: Grouping shoppers by discount affinity to transition from mass promotions to personalized, high-yield offers.
