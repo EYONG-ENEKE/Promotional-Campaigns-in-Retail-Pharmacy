@@ -97,19 +97,19 @@ Month 2 (The Blanket Clearance): Month 2 saw a massive spike in promotional acti
 
 Month 4 (The True Danger Zone): While Month 2 was an isolated event, Month 4 represents a structural habit. It maintained an incredibly deep average discount profile of 66.5% across 6,777 items. This deep gap between promo prices and regular prices created the exact environment required for severe market cannibalization.
 
-2. Identifying the "Chronic Offenders" (The 531 Core Items)
-By filtering out temporary baseline sales and tracking individual product behavior over time, our analysis identified a hard core of 531 specific items that are locked in a continuous promotional loop.
+2. Identifying the "Chronic Offenders" (The 1444 Core Items)
+By filtering out temporary baseline sales and tracking individual product behavior over time, our analysis identified a hard core of 1444 specific items that are locked in a continuous promotional loop.
 
 PROMOTIONAL LIFECYCLE OF RISK ITEMS
        
-Month 2: [ 531 Items ]  <-- Deeply Discounted
-Month 3: [ 531 Items ]  <-- Kept on Promo (No Rest Period)
-Month 4: [ 531 Items ]  <-- Kept on Promo (Deepening to 66.5%)
-Month 5: [ 735 Items ]  <-- The Core 531 + 204 New Risk Additions
+Month 2: [ 1444 Items ]  <-- Deeply Discounted
+Month 3: [ 1444 Items ]  <-- Kept on Promo (No Rest Period)
+Month 4: [ 1444 Items ]  <-- Kept on Promo (Deepening to 66.5%)
+Month 5: [ 735 Items ]  <-- The Core 1444 + 204 New Risk Additions
 
 
 
-These 531 items have been heavily discounted across Months 2, 3, and 4 without a "rest period." Furthermore, heading into Month 5, the problem expanded by 38%, with 735 items now flagged for high cannibalization risk.
+These 1444 items have been heavily discounted across Months 2, 3, and 4 without a "rest period." Furthermore, heading into Month 5, the problem expanded by 38%, with 735 items now flagged for high cannibalization risk.
 
 3. Commercial Risks & Impact
 Leaving these 531 items on permanent promotion introduces three severe risks to our bottom line:
@@ -123,9 +123,9 @@ Conditioning the Consumer: A 66.5% discount has effectively become the "new norm
 4. Strategic Recommendations & Immediate Next Steps
 To protect category profitability, we recommend the following phased approach:
 
-Enforce Immediate Promotional "Cool-Down" Periods: Review the extracted list of 531 items and implement mandatory 4-to-6 week promotional blackouts for them to reset consumer price anchors.
+Enforce Immediate Promotional "Cool-Down" Periods: Review the extracted list of 1444 items and implement mandatory 4-to-6 week promotional blackouts for them to reset consumer price anchors.
 
-Cross-Elasticity Audit: Audit the sales volumes of full-priced "sibling" products within the most heavily impacted categories. If full-price product volumes plummeted while these 531 items spiked, it confirms active cannibalization.
+Cross-Elasticity Audit: Audit the sales volumes of full-priced "sibling" products within the most heavily impacted categories. If full-price product volumes plummeted while these 1444 items spiked, it confirms active cannibalization.
 
 Audit Month 2 Pricing Formulas: Investigate the corrected_Depth% calculation for Month 2 to determine why the recorded average depth exceeded 100%. If this was a manual entry error, the data pipeline needs tighter guardrails.
 
